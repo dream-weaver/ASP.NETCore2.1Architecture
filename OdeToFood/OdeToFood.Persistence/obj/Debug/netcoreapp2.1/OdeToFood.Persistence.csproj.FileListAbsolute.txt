@@ -1,0 +1,14 @@
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Persistence\bin\Debug\netcoreapp2.1\OdeToFood.Persistence.deps.json
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Persistence\bin\Debug\netcoreapp2.1\OdeToFood.Persistence.dll
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Persistence\bin\Debug\netcoreapp2.1\OdeToFood.Persistence.pdb
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Persistence\bin\Debug\netcoreapp2.1\OdeToFood.Entity.dll
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Persistence\bin\Debug\netcoreapp2.1\OdeToFood.Entity.pdb
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Persistence\obj\Debug\netcoreapp2.1\OdeToFood.Persistence.csprojAssemblyReference.cache
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Persistence\obj\Debug\netcoreapp2.1\OdeToFood.Persistence.csproj.CoreCompileInputs.cache
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Persistence\obj\Debug\netcoreapp2.1\OdeToFood.Persistence.AssemblyInfoInputs.cache
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Persistence\obj\Debug\netcoreapp2.1\OdeToFood.Persistence.AssemblyInfo.cs
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Persistence\obj\Debug\netcoreapp2.1\OdeToFood.Persistence.csproj.CopyComplete
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Persistence\obj\Debug\netcoreapp2.1\OdeToFood.Persistence.dll
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Persistence\obj\Debug\netcoreapp2.1\OdeToFood.Persistence.pdb
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Persistence\bin\Debug\netcoreapp2.1\OdeToFood.Persistence.runtimeconfig.json
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Persistence\bin\Debug\netcoreapp2.1\OdeToFood.Persistence.runtimeconfig.dev.json

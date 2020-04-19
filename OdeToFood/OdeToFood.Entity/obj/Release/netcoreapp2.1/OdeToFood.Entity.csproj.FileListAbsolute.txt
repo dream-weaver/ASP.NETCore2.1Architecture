@@ -1,0 +1,8 @@
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Entity\bin\Release\netcoreapp2.1\OdeToFood.Entity.deps.json
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Entity\bin\Release\netcoreapp2.1\OdeToFood.Entity.dll
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Entity\bin\Release\netcoreapp2.1\OdeToFood.Entity.pdb
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Entity\obj\Release\netcoreapp2.1\OdeToFood.Entity.csproj.CoreCompileInputs.cache
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Entity\obj\Release\netcoreapp2.1\OdeToFood.Entity.AssemblyInfoInputs.cache
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Entity\obj\Release\netcoreapp2.1\OdeToFood.Entity.AssemblyInfo.cs
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Entity\obj\Release\netcoreapp2.1\OdeToFood.Entity.dll
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Entity\obj\Release\netcoreapp2.1\OdeToFood.Entity.pdb

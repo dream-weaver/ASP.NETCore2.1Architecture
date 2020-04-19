@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OdeToFood.Entity\OdeToFood.Entity.csproj" />
+    <ProjectReference Include="..\OdeToFood.Persistence\OdeToFood.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

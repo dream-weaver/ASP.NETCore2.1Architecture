@@ -1,0 +1,14 @@
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Service\bin\Debug\netcoreapp2.1\OdeToFood.Service.deps.json
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Service\bin\Debug\netcoreapp2.1\OdeToFood.Service.dll
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Service\bin\Debug\netcoreapp2.1\OdeToFood.Service.pdb
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Service\bin\Debug\netcoreapp2.1\OdeToFood.Entity.dll
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Service\bin\Debug\netcoreapp2.1\OdeToFood.Persistence.dll
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Service\bin\Debug\netcoreapp2.1\OdeToFood.Entity.pdb
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Service\bin\Debug\netcoreapp2.1\OdeToFood.Persistence.pdb
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Service\obj\Debug\netcoreapp2.1\OdeToFood.Service.csprojAssemblyReference.cache
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Service\obj\Debug\netcoreapp2.1\OdeToFood.Service.csproj.CoreCompileInputs.cache
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Service\obj\Debug\netcoreapp2.1\OdeToFood.Service.AssemblyInfoInputs.cache
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Service\obj\Debug\netcoreapp2.1\OdeToFood.Service.AssemblyInfo.cs
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Service\obj\Debug\netcoreapp2.1\OdeToFood.Service.csproj.CopyComplete
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Service\obj\Debug\netcoreapp2.1\OdeToFood.Service.dll
+F:\SandBox\OdeToFood\OdeToFood\OdeToFood.Service\obj\Debug\netcoreapp2.1\OdeToFood.Service.pdb

@@ -1,0 +1,25 @@
+﻿@using OdeToFood.Entity
+@model Restaurant
+@{
+}
+
+<tr>
+    <td>@Model.Name</td>
+    <td>@Model.Location</td>
+    <td>@Model.Cuisine</td>
+    <td>
+        <a class="btn btn-lg" asp-page="./Details" asp-route-restaurantId="@Model.Id">
+            <i class="glyphicon glyphicon-zoom-in"></i>
+        </a>
+    </td>
+    <td>
+        <a class="btn btn-lg" asp-page="./Edit" asp-route-restaurantId="@Model.Id">
+            <i class="glyphicon glyphicon-edit"></i>
+        </a>
+    </td>
+    <td>
+        <a class="btn btn-lg" asp-page="./Delete" asp-route-restaurantId="@Model.Id">
+            <i class="glyphicon glyphicon-trash"></i>
+        </a>
+    </td>
+</tr>
